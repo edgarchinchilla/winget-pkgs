@@ -1,0 +1,23 @@
+# https://github.com/microsoft/winget-cli/blob/master/schemas/JSON/manifests/v1.0.0/manifest.installer.1.0.0.json
+PackageIdentifier: "CitrixSystems.CitrixWorkspaceApp"
+PackageVersion: "21.5.0.48"
+Platform: 
+ - "Windows.Desktop"
+MinimumOSVersion: "10.0.18362.0"
+InstallerType: "exe"
+InstallModes: 
+ - "silent"
+PackageFamilyName: "CitrixWorkspaceApp"
+Installers: 
+ - Architecture: "x86"
+   InstallerUrl: "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp21.5.0.48.exe"
+   InstallerSha256: 8eb5655bdaff459a53063c949eb53b3aa679dc5bd5156d33316ad6c466d6aed0
+   Scope: machine
+   UpgradeBehavior: install
+ - Architecture: "x64"
+   InstallerUrl: "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp21.5.0.48.exe"
+   InstallerSha256: 8eb5655bdaff459a53063c949eb53b3aa679dc5bd5156d33316ad6c466d6aed0
+   Scope: machine
+   UpgradeBehavior: install
+ManifestType: "installer"
+ManifestVersion: "1.0.0"

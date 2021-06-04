@@ -1,0 +1,5 @@
+PackageIdentifier: "CitrixSystems.CitrixWorkspaceApp"
+PackageVersion: "21.5.0.48"
+DefaultLocale: "en-US"
+ManifestType: "version"
+ManifestVersion: "1.0.0"
