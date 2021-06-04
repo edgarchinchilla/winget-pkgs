@@ -1,9 +1,11 @@
+#https://aka.ms/winget-manifest.defaultlocale.1.0.0.schema.json
 PackageIdentifier: "CitrixSystems.CitrixWorkspaceApp"
 PackageVersion: "21.5.0.48"
 PackageLocale: "en-US"
 Publisher: "Citrix Systems, Inc."
-PublisherURL: "https://www.citrix.com//"
+PublisherURL: "https://www.citrix.com/"
 PrivacyURL: "https://www.citrix.com/about/legal/privacy/"
+Author: "Citrix Systems, Inc."
 PackageName: "Citrix Workspace App"
 Moniker: Workspace App
 License: "© 1999-2021 Citrix Systems, Inc. and/or its affiliates. All rights reserved."
