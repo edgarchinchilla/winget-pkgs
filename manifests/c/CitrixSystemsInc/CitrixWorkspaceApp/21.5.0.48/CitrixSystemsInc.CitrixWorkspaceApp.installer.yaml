@@ -9,13 +9,7 @@ InstallModes:
  - silent
 PackageFamilyName: CitrixWorkspaceApp
 Installers: 
- - Architecture: x86
-   InstallerType: exe
-   InstallerUrl: https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp21.5.0.48.exe
-   InstallerSha256: 8EB5655BDAFF459A53063C949EB53B3AA679DC5BD5156D33316AD6C466D6AED0
-   Scope: machine
-   UpgradeBehavior: install
- - Architecture: x64
+ - Architecture: neutral
    InstallerType: exe
    InstallerUrl: https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp21.5.0.48.exe
    InstallerSha256: 8EB5655BDAFF459A53063C949EB53B3AA679DC5BD5156D33316AD6C466D6AED0
