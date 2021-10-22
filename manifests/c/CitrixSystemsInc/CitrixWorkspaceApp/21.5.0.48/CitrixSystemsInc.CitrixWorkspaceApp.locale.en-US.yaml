@@ -8,11 +8,11 @@ PublisherURL: https://www.citrix.com/
 PrivacyURL: https://www.citrix.com/about/legal/privacy/
 Author: Citrix Systems, Inc.
 PackageName: Citrix Workspace App
-Moniker: Workspace App
+PackageURL: https://www.citrix.com/products/citrix-workspace/
 License: Copyright (c) 1990-2021 Citrix Systems, Inc.
 LicenseURL: https://www.citrix.com/content/dam/citrix/en_us/documents/buy/enterprise-eula.pdf
-PackageURL: https://www.citrix.com/products/citrix-workspace/
 ShortDescription: Citrix Workspace for Windows is an easy-to-install application that provides access to applications and desktops through Citrix Virtual Apps and Desktops from a remote client device.
+Moniker: WorkspaceApp
 Tags: 
 - Remote
 - Virtual App
