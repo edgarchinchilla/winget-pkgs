@@ -1,0 +1,12 @@
+# https://aka.ms/winget-manifest.locale.1.0.0.schema.json
+
+PackageIdentifier: CitrixSystemsInc.CitrixWorkspaceApp
+PackageVersion: 21.9.1.4048
+PackageLocale: es-ES
+Publisher: Citrix Systems, Inc.
+Author: Citrix Systems, Inc.
+License: Copyright (c) 1990-2021 Citrix Systems, Inc.
+LicenseURL: https://www.citrix.com/content/dam/citrix/en_us/documents/buy/enterprise-eula-es.pdf
+ShortDescription: Citrix Workspace para Windows es una aplicación fácil de instalar que proporciona acceso a aplicaciones y escritorios a través de Citrix Virtual Apps and Desktops desde un dispositivo cliente remoto.
+ManifestType: locale
+ManifestVersion: 1.0.0

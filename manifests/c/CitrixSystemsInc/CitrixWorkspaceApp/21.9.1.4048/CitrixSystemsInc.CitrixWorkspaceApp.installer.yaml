@@ -1,0 +1,16 @@
+# https://aka.ms/winget-manifest.installer.1.0.0.schema.json
+
+PackageIdentifier: CitrixSystemsInc.CitrixWorkspaceApp
+PackageVersion: 21.9.1.4048
+MinimumOSVersion: 10.0.18362.0
+InstallerType: exe
+Scope: machine
+Platform:
+- Windows.Desktop
+Installers:
+- Architecture: neutral
+  InstallerUrl: https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp21.9.1.4048.exe
+  InstallerSha256: 3C47EB94BD89611D48D65B51A8E6D083E32DEFBE6B4EA9C69ECE9C2844BC60F2
+  UpgradeBehavior: install
+ManifestType: installer
+ManifestVersion: 1.0.0

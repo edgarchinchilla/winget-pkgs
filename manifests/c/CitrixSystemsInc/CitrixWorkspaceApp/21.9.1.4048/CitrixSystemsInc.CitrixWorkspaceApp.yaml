@@ -1,0 +1,8 @@
+# https://aka.ms/winget-manifest.version.1.0.0.schema.json
+# https://github.com/microsoft/winget-pkgs/YamlSpec.md
+
+PackageIdentifier: CitrixSystemsInc.CitrixWorkspaceApp
+PackageVersion: 21.9.1.4048
+DefaultLocale: en-US
+ManifestType: version
+ManifestVersion: 1.0.0
